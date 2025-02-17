@@ -3,7 +3,7 @@
 📌 Overview
 This is an AI-powered image captioning web app that generates descriptive captions for uploaded images using a pretrained deep learning model. Built with Hugging Face Transformers and Streamlit, this app allows users to get AI-generated captions instantly. 
 
-🔗 **Try it live:** [Your Hugging Face Link Here](https://huggingface.co/spaces/ven12345678/Image-Captioning)  
+🔗 **Try it live:** [Hugging Face Link](https://huggingface.co/spaces/ven12345678/Image-Captioning)  
 
 🚀 Features
 ✅ Upload an image and get an AI-generated caption
