@@ -9,7 +9,7 @@ This is a simple AI chatbot using Hugging Face Transformers and Gradio.
 2. The AI chatbot will reply instantly  
 
 ## Technologies Used  
-✅ Hugging Face Transformers  
+✅ Hugging Face Transformers - Blender Bot
 ✅ Gradio  
 ✅ Python  
 
