@@ -2,7 +2,7 @@
 
 This is a simple AI chatbot using Hugging Face Transformers and Streamlit.  
 
-🔗 **Try it live:** [Your Hugging Face Link Here](https://huggingface.co/spaces/ven12345678/qna-chatbot)  
+🔗 **Try it live:** [Hugging Face Link](https://huggingface.co/spaces/ven12345678/qna-chatbot)  
 
 ## How to Use  
 1. Upload a textfile to the chatbot
